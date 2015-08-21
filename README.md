@@ -1,5 +1,5 @@
 # JigsawPuzzle
-Simple 9x9 jigsaw puzzle game written in Swift, also Slidding puzzle concept included.
+Simple 9x9 jigsaw puzzle game written in Swift 2, also Slidding puzzle concept included.
 
 In my learning journey I decided to make completely working Jigsaw puzzle game concept.
 
