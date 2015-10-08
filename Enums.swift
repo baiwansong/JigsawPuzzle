@@ -27,7 +27,11 @@ enum TileMoves{
 
 //MARK: Things for JigSaw Puzzle
 
-
+enum JigsawLevels : Int{
+    case easy   = 9
+    case normal = 15
+    case hard   = 20
+}
 enum PieceRotation : Int{
     case zero   = 0     //correct
     case first  = 1     //90d
